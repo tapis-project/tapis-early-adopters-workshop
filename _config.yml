@@ -11,17 +11,17 @@ nav:
   - Tapis V3 introduction and V2 changes:
     - Introduction to Tapis and current state: block1/
     - Overview of V3 APIs: block1/
-    - Changes from V2: 
-  - Tapis V3 design deep dive and roadmap :
-    - Tapis component organization and tenancy: block1/tapis-intro
+    - Changes from V2: block1/
+  - Tapis V3 design deep dive and roadmap : 
+    - Tapis component organization and tenancy: block1/
     - Security Kernel and remote site/data-center deployments : block1/
     - Container support
-  - Tapis v3 demo:
+  - Tapis v3 demo: block2/
   - Tapis early adopter use cases lightning talks:
-    - Machine Learning workflow 
-    - Precipitation workflow and data science 
-    - iReceptor 
-    - Remote site/data-center use case 
-  - Contributing to Tapis 
-    - Tools & best practices
-    - Trainings and code of conduct
+    - Machine Learning workflow block2/
+    - Precipitation workflow and data science block2/
+    - iReceptor block2/
+    - Remote site/data-center use case block2/
+  - Contributing to Tapis:
+    - Tools & best practices block2/
+    - Trainings and code of conduct block2/
