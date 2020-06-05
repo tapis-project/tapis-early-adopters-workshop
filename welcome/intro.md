@@ -1,4 +1,4 @@
-Welcome to PEARC20 Tapis V3 Early Adopters Workshop
+Welcome to PEARC20 Tapis Early Adopters Workshop
 ===
 
 ### Fill out the demographic information

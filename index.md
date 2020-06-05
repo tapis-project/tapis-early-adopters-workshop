@@ -1,5 +1,8 @@
 # PEARC 20 Tapis Early Adopters Workshop
 
+## Part 1: Welcome and Background
+* [Welcome](./welcome/intro.md)
+
 ## Schedule
 
 * 8:30AM - Tapis V3 introduction and V2 changes 
