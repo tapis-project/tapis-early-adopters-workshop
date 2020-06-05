@@ -1,0 +1,25 @@
+remote_theme: marella/jekyll-theme-documentation
+#remote_theme: pawamoy/jekyll-readthedocs
+
+#theme: jekyll-theme-cayman
+#theme: jekyll-theme-minimal
+
+permalink: pretty
+nav:
+  - Welcome and Background:
+    - Welcome: ''
+  - Tapis V3 introduction and V2 changes:
+    - Introduction to Tapis and current state: block1/
+    - Overview of V3 APIs: block1/
+    - Changes from V2: 
+  - Tapis V3 design deep dive and roadmap :
+    - Tapis component organization and tenancy: block1/tapis-intro
+    - Security Kernel and remote site/data-center deployments : block1/
+    - Container support
+  - Tapis v3 demo:
+  - Tapis early adopter use cases lightning talks:
+    - Machine Learning workflow 
+    - Precipitation workflow and data science 
+    - iReceptor 
+    - Remote site/data-center use case 
+  - Contributing to Tapis - tools, best practices, trainings and code of conduct
