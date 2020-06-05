@@ -1,4 +1,4 @@
-# PEARC 20 Early Adopters Workshop
+# PEARC 20 Tapis Early Adopters Workshop
 
 ## Schedule
 
