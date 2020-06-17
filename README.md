@@ -36,4 +36,3 @@ Presenters:
 * Julia Looney (TACC)
 * Steve Terry (TACC)
 
-## [Introduction to Tapis and current state](./block1/TapisIntro.md)

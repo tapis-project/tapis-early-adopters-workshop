@@ -10,8 +10,6 @@ nav:
     - Welcome : ''
   - Tapis V3 introduction and V2 changes: 
     - Introduction to Tapis and current state: (block1/TapisIntro) 
-    - Overview of V3 APIs
-    - Changes from V2
   - Tapis V3 design deep dive and roadmap: 
     - Tapis component organization and tenancy: 
     - Security Kernel and remote site/data-center deployments: block1/
