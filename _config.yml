@@ -14,7 +14,7 @@ nav:
     - Tapis component organization and tenancy
     - Security Kernel and remote site/data-center deployments: block1/SKIntro
     - Container support: block1
-  - Tapis V3 demo: block2/demo.md
+  - Tapis V3 demo: block2/demo
   - Tapis early adopter use cases lightning talks:
     - Machine Learning workflow: block2/
     - Precipitation workflow and data science: block2/
