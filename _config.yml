@@ -12,9 +12,9 @@ nav:
     - Introduction to Tapis and current state: block1/TapisIntro 
   - Tapis V3 design deep dive and roadmap: 
     - Tapis component organization and tenancy
-    - Security Kernel and remote site/data-center deployments: block1/
+    - Security Kernel and remote site/data-center deployments: block1/SKIntro
     - Container support: block1
-  - Tapis v3 demo: block2/
+  - Tapis V3 demo: block2/demo.md
   - Tapis early adopter use cases lightning talks:
     - Machine Learning workflow: block2/
     - Precipitation workflow and data science: block2/
