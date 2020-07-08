@@ -9,10 +9,9 @@ nav:
   - Welcome 
   - Tapis V3 introduction and V2 changes: block1/TapisIntro 
   - Invited Speaker (Scott C.) 
-  - Tapis V3 design deep dive and roadmap:
-    - Tapis component organization and tenancy 
-    - Security Kernel and remote site/data-center deployments: block1/SKIntro 
-    - Streaming data: block1/StreamsIntro 
+  - Tapis component organization and tenancy 
+  - Security Kernel and remote site/data-center deployments: block1/SKIntro 
+  - Streaming data: block1/StreamsIntro 
   - Innvited Speaker (Jack S.)
   - Container support
   - Tapis V3 demo: block2/demo 
