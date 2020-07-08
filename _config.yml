@@ -6,7 +6,7 @@ remote_theme: marella/jekyll-theme-documentation
 
 permalink: pretty
 nav:
-  - Welcome 
+  - Welcome: welcome/intro
   - Tapis V3 introduction and V2 changes: block1/TapisIntro 
   - Invited Speaker (Scott C.) 
   - Tapis component organization and tenancy 
