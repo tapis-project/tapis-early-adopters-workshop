@@ -5,6 +5,5 @@ Lets first look at the demo overview
 
 Git repo for the demo can be found here [Tapis Jupyter](https://github.com/tapis-project/tapis-juptyer)
 
-Note: Attendees are welcome to read the contents of [ipython notebook](https://github.com/tapis-project/tapis-juptyer/blob/master/tapis_notebook.ipynb) however, they will not be able to run the demo at their ennd yet.
+Note: Attendees are welcome to read the contents of [ipython notebook](https://github.com/tapis-project/tapis-juptyer/blob/master/tapis_notebook.ipynb) however, they will not be able to run the demo at their end yet.
 
-Any questions related to demo after the workshop should be directed to [TACC-Cloud](http://bit.ly/join-tapis) slack, channel #pearc20-tapis
