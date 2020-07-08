@@ -11,4 +11,4 @@ The Streams API also integrates Tapis event-driven function such as [Abaco](http
  * Processing Events with Tapis Functions— Developers are be able to register an Abaco function with an alert to performscalable processing with no infrastructure to maintain.<br/>
 
 
-[Streams API Introduction](https://docs.google.com/presentation/d/1NrTMVIMPqJIdungJ_kMF2FeXdVSwzDNWVhcJqyZhF_c/edit?usp=sharing)
+[Streams API Introduction Slides](https://docs.google.com/presentation/d/1NrTMVIMPqJIdungJ_kMF2FeXdVSwzDNWVhcJqyZhF_c/edit?usp=sharing)
