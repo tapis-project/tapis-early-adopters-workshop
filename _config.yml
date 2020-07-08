@@ -6,23 +6,17 @@ remote_theme: marella/jekyll-theme-documentation
 
 permalink: pretty
 nav:
-  - Welcome and Background:
-    - Welcome :  (Joe S. 5 min)
-  - Tapis V3 introduction and V2 changes: (Joe S. 30 min)
-    - Introduction to Tapis and current state: block1/TapisIntro 
-  - Lightning talk (Scott Christly 10min)
+  - Welcome 
+  - Tapis V3 introduction and V2 changes: block1/TapisIntro 
+  - Invited Speaker (Scott C.) 
   - Tapis V3 design deep dive and roadmap:
-    - Tapis component organization and tenancy (Joe S. 10min)
-    - Security Kernel and remote site/data-center deployments: block1/SKIntro (15 min)
-    - Streaming data: block1/StreamsIntro (Sean 10 min)
-  - Q/A (5 min)  
-
-
-  - Lightning Talk (Matt Lucas 10 min)
-  - Lightning Talk (Jack Smith 10 min)
-  - Container support (Steve B. 5 min)
-  - Tapis V3 demo: block2/demo ( All 45 min)
+    - Tapis component organization and tenancy 
+    - Security Kernel and remote site/data-center deployments: block1/SKIntro 
+    - Streaming data: block1/StreamsIntro 
+  - Innvited Speaker (Jack S.)
+  - Container support
+  - Tapis V3 demo: block2/demo 
   - Contributing to Tapis: 
     - Tools & best practices: 
-    - Trainings and code of conduct: 
-  - Q/A (10 min)
+    - Trainings and code of conduct
+
