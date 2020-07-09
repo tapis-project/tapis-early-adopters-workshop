@@ -6,4 +6,4 @@ The Tapis security subsystem is comprised of four primary components, namely the
 
 Lastly, the Security Kernel (SK) plays an important role in authentication and authorization; it is comprised of open-source software components tied together by a unifying API. SK builds upon the Apache Shiro security framework (https://shiro.apache.org) to create a scalable, fine-grained authorization facility.  It extends the Shiro authorization model to allow permissions on hierarchical containers, such as file system directories, to extend to their subtrees. SK also incorporates the Hashicorp Vault secrets store (https://www.vaultproject.io/), which manages all secrets in the system, including all passwords and keys for databases, services and users. The security kernel API allows the platform's microservices to securely interact with users' storage and execution resources and with each other. <br/>
 
-[Distributed Security](https://docs.google.com/presentation/d/1BJOFLRjurYtaeAC7BoJIT6KqDPdFkkuuRuc7YptPvp4/edit?usp=sharing)
+[Distributed Security Slides](https://docs.google.com/presentation/d/1BJOFLRjurYtaeAC7BoJIT6KqDPdFkkuuRuc7YptPvp4/edit?usp=sharing)
