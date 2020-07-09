@@ -1,4 +1,4 @@
-## Security Kernel
+## Distributed Security 
 
 In our overview of Tapis security, we present the main components of a distributed security architecture and the authentication and authorization flows they support.  We describe how roles, permissions and secrets are managed and our plan for multisite implementations.  We also introduce our deployment strategy.<br/>
 
