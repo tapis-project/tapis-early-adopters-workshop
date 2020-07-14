@@ -18,4 +18,4 @@ application requirements will allow the applications and jobs components of Tapi
 containers as first class objects leading to improved flexibility when scheduling computational
 workloads as well as greater portability and reproducibility when executing them. <br/>
 
-[Container Support Slides](https://docs.google.com/presentation/d/160oYNFl5YAjWbs9thy6T9RLgX5o0xosQkfAjTCLA3r4)
+[Container Support Slides](https://docs.google.com/presentation/d/160oYNFl5YAjWbs9thy6T9RLgX5o0xosQkfAjTCLA3r4/edit?usp=sharing)
