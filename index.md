@@ -23,7 +23,7 @@
 * 11:30AM - Wrap up & Q/A
 
 
-### Presenters: 
+### Presenters
 * Joe Stubbs (TACC)
 * Rich Cardone (TACC)
 * Steve Black (TACC)
