@@ -6,6 +6,7 @@ remote_theme: marella/jekyll-theme-documentation
 
 permalink: pretty
 nav:
+  - Home: ''
   - Welcome to PEARC20: welcome/intro
   - Tapis V3 introduction and V2 changes: block1/TapisIntro 
   - Invited Speaker Scott Christly 
@@ -18,3 +19,4 @@ nav:
   - Tapis V3 demo: block2/demo 
   - Contributing to Tapis: block2/coc 
 
+theme: jekyll-theme-hacker
