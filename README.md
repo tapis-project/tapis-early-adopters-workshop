@@ -1,6 +1,6 @@
 # PEARC 20 Tapis Early Adopters Workshop
 
-## Schedule
+### Schedule
 * 8:00AM  - Welcome 
 * 8:05AM  - Tapis V3 introduction and V2 changes 
 		    Introduction to Tapis and current state 
@@ -23,7 +23,7 @@
 * 11:30AM - Wrap up & Q/A
 
 
-Presenters: 
+### Presenters: 
 * Joe Stubbs (TACC)
 * Rich Cardone (TACC)
 * Steve Black (TACC)
