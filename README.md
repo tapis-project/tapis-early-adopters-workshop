@@ -9,17 +9,17 @@
 		    Introduction to Tapis and current state 
 		    Overview of V3 APIs 
 		    Changes from V2 
-* 8:35AM  - Invited Speaker (Scott C.) 
+* 8:35AM  - Invited Speaker Scott Christly 
 * 8:45AM  - Tapis V3 design deep dive and roadmap
 		    Tapis component organization and tenancy 
             Security Kernel and remote site/data-center deployments 
             Streaming data 
 * 9:20AM  - Q/A  
 * 9:30AM  - Break
-* 10:00AM - Innvited Speaker (Jack S.)
+* 10:00AM - Invited Speaker Jack Smith
 * 10:05AM - Container support 
 * 10:15AM - Tapis V3 demo 
-* 11:00AM - Invited Speaker (Matt L.)
+* 11:00AM - Invited Speaker Matt Lucas
 * 11:10AM - Contributing to Tapis: 
 		    Tools & best practices: 
 	        Trainings and code of conduct
@@ -31,10 +31,8 @@ Presenters:
 * Rich Cardone (TACC)
 * Steve Black (TACC)
 * Sean Cleveland (UH)
-* Maytal Dahan (TACC)
 * Joeseph Meiring (TACC)
 * Smruti Padhy (TACC)
 * Julia Looney (TACC)
 * Anagha Jamthe (TACC)
-* Steve Terry (TACC)
 

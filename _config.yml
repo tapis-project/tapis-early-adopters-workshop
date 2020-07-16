@@ -8,11 +8,12 @@ permalink: pretty
 nav:
   - Welcome to PEARC20: welcome/intro
   - Tapis V3 introduction and V2 changes: block1/TapisIntro 
-  - Invited Speaker (Scott C.) 
+  - Invited Speaker Scott Christly 
   - Tapis component organization and tenancy 
   - Distributed Security: block1/SKIntro 
   - Streaming data: block1/StreamsIntro 
-  - Innvited Speaker (Jack Smith): block2/WQIntro 
+  - Invited Speaker Jack Smith: block2/WQIntro 
+  - Invited Speaker Matt Lucas
   - Container support: block2/ContainersIntro
   - Tapis V3 demo: block2/demo 
   - Contributing to Tapis: block2/coc 
