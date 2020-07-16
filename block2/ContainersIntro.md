@@ -1,6 +1,6 @@
 ## Container Support
 
-Container technology significantly improves the portability and reproducibility of general
+**Container** technology significantly improves the **portability** and **reproducibility** of general
 applications. However, adoption within the scientific computing community has lagged behind
 industry. The primary reason is that containers cannot easily encapsulate all the dependencies
 of scientific code running in customized, heterogeneous environments. Scientific computations
