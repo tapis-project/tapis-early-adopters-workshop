@@ -1,1 +1,19 @@
-[NEXT-> Tapis Tenants and authorization ](./Tenants.md)							[PREV-> Early Adopter Use Case](./MetaVdj.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[NEXT-> Tapis Tenants and Authorization ](./Tenants.md)							[PREV](./TapisIntro.md)
