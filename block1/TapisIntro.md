@@ -9,3 +9,6 @@
 
 
 [Tapis Introduction Slides](https://docs.google.com/presentation/d/1Mqtiy1-VIesLxjyDSeCh8OM_oVKj1TrongGU-UDORlY/edit?usp=sharing)
+
+
+[NEXT-> Early Adopter Use Case](./MetaVdj.md)
