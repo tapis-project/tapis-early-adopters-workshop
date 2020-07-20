@@ -1,3 +1,4 @@
+## Tapis Tenancy and Authorization
 
 The Tapis authentication subsystem provides two mandatory components together with a set of optional services to enable institutions to integrate their existing identity providers and related systems. Tapis authentication is closely related to the notion of **tenancy** <br/>
 A **tenant** in the Tapis framework represents a logical separation of Tapis entities (i.e., apps, jobs, actors, etc.) as well as a high-level authentication and security configuration. <br/>
