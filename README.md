@@ -7,9 +7,9 @@
 		    Overview of V3 APIs 
 		    Changes from V2 
 * 8:35AM  - Invited Speaker Scott Christly 
-* 8:45AM  - Tapis V3 design deep dive and roadmap
-		    Tapis component organization and tenancy 
-            Security Kernel and remote site/data-center deployments 
+* 8:45AM  - Tapis V3 design deep dive and roadmap <br/>
+		    Tapis tenancy and authorization <br/> 
+            Security Kernel and remote site/data-center deployments <br/>
             Streaming data 
 * 9:20AM  - Q/A  
 * 9:30AM  - Break
@@ -17,7 +17,7 @@
 * 10:05AM - Container support 
 * 10:15AM - Tapis V3 demo 
 * 11:00AM - Invited Speaker Matt Lucas
-* 11:10AM - Contributing to Tapis: 
+* 11:10AM - Contributing to Tapis <br/> 
 		    Tools & best practices: 
 	        Trainings and code of conduct
 * 11:30AM - Wrap up & Q/A
