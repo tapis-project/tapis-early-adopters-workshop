@@ -10,7 +10,7 @@ nav:
   - Welcome to PEARC20: welcome/intro
   - Tapis V3 introduction and V2 changes: block1/TapisIntro 
   - Invited Speaker Scott Christly 
-  - Tapis component organization and tenancy 
+  - Tapis tenancy and authorization: block1/Tenants
   - Distributed Security: block1/SKIntro 
   - Streaming data: block1/StreamsIntro 
   - Invited Speaker Jack Smith: block2/WQIntro 
