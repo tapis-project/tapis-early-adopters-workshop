@@ -14,4 +14,4 @@
 
 
 
-[NEXT-> Early Adopter Use Case](./MetaVdj.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PREV](./intro.md)
+[NEXT-> Early Adopter Use Case](./MetaVdj.md)*Tabspace**Tabspace**Tabspace**Tabspace**Tabspace**Tabspace**Tabspace**Tabspace*													[PREV](./intro.md)
