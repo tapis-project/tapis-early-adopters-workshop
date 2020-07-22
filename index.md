@@ -1,6 +1,6 @@
 # PEARC 20 Tapis Early Adopters Workshop
 
-### Schedule
+### Schedule (PT)
 * 8:00AM  - Welcome 
 * 8:05AM  - Tapis V3 introduction and V2 changes 
 		    Introduction to Tapis and current state 
@@ -26,12 +26,12 @@
 ### Presenters
 * Joe Stubbs (TACC)
 * Rich Cardone (TACC)
+* Sean Cleveland (UH)
+* Joeseph Meiring (TACC)
 * Scott Christly (UT Southwestern Medical Center)
 * Jack Smith (Marshall University)
 * Matthew P. Lucas (University of Hawai‘i at Mānoa)
 * Steve Black (TACC)
-* Sean Cleveland (UH)
-* Joeseph Meiring (TACC)
 * Smruti Padhy (TACC)
 * Julia Looney (TACC)
 * Anagha Jamthe (TACC)
