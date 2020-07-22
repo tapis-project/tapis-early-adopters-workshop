@@ -9,8 +9,5 @@
 
 
 [Tapis Introduction Slides](https://docs.google.com/presentation/d/1Mqtiy1-VIesLxjyDSeCh8OM_oVKj1TrongGU-UDORlY/edit?usp=sharing)
-<br/>
-<br/>
 
-[NEXT-> Early Adopter Use Case](./MetaVdj.md) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
-[PREV](./intro.md)
+

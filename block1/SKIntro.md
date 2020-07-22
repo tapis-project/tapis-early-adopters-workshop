@@ -10,4 +10,3 @@ Lastly, the Security Kernel (SK) plays an important role in authentication and a
 
 
 
-[NEXT-> Streams](./StreamsIntro.md)												[PREV](./SKIntro.md)

@@ -16,4 +16,3 @@
 
 
 
-[NEXT-> Tapis Tenants and Authorization ](./Tenants.md)							[PREV](./TapisIntro.md)

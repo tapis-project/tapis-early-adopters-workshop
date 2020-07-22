@@ -15,4 +15,3 @@ The Streams API also integrates Tapis **event-driven** function such as [Abaco](
 [Streams API Introduction Slides](https://docs.google.com/presentation/d/1NrTMVIMPqJIdungJ_kMF2FeXdVSwzDNWVhcJqyZhF_c/edit?usp=sharing)
 
 
-[NEXT-> Early Adopter's User Case](./block2/WQIntro.md)											[PREV](./SKInntro.md)

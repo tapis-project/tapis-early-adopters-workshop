@@ -8,4 +8,3 @@ Signed JSON Web Tokens represent the sole mechanism for proving identity to any 
 [Tapis tenancy and authorization slides](https://docs.google.com/presentation/d/12RJSnEim0fhuSP2giu9y4ptBcOnsgpexjPL36LEalYI/edit?usp=sharing)
 
 
-[NEXT-> Distributed Security](./SKInntro.md)										[PREV](./MetaVdj.md)
