@@ -26,6 +26,9 @@
 ### Presenters
 * Joe Stubbs (TACC)
 * Rich Cardone (TACC)
+* Scott Christly (UT Southwestern Medical Center)
+* Jack Smith (Marshall University)
+* Matthew P. Lucas (University of Hawai‘i at Mānoa)
 * Steve Black (TACC)
 * Sean Cleveland (UH)
 * Joeseph Meiring (TACC)
