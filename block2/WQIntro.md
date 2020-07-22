@@ -5,4 +5,3 @@ Some info about the project: to do
 
 
 
-[NEXT->Early Adopter's Use Case](./UH.md)				              [PREV](./block1/StreamsIntro.md)	
