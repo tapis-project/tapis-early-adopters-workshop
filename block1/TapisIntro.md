@@ -12,5 +12,5 @@
 <br/>
 <br/>
 
-[NEXT-> Early Adopter Use Case](./MetaVdj.md) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+[NEXT-> Early Adopter Use Case](./MetaVdj.md) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
 [PREV](./intro.md)
