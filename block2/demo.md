@@ -7,8 +7,9 @@ Lets first look at the demo overview
 Git repo for the demo can be found here [Tapis Jupyter](https://github.com/tapis-project/tapis-juptyer)
 
 Note: Attendees are welcome to read the contents of [ipython notebook](https://github.com/tapis-project/tapis-juptyer/blob/master/tapis_notebook.ipynb) however, they will not be able to run the demo at their end yet.
+<br.>
 
-More resources for reading: <br/>
 
+Useful links: <br/>
 [Tapis v3 Documentation](https://tapis.readthedocs.io/en/latest/) <br/>
 [Tapis Live Docs](https://tapis-project.github.io/live-docs/)
