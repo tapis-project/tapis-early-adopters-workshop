@@ -12,5 +12,4 @@
 <br/>
 <br/>
 
-[NEXT-> Early Adopter Use Case](./MetaVdj.md) <br/>
-[PREV](./intro.md)
+[NEXT-> Early Adopter Use Case](./MetaVdj.md)&emsp;&emsp;&emsp;&emsp;[PREV](./intro.md)
