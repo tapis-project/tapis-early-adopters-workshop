@@ -16,7 +16,7 @@
 * 10:00AM - Invited Speaker Jack Smith
 * 10:05AM - Container support 
 * 10:15AM - Tapis V3 demo 
-* 11:00AM - Invited Speaker Matt Lucas
+* 11:00AM - Invited Speaker Matthew P. Lucas
 * 11:10AM - Contributing to Tapis <br/> 
 		    Tools & best practices: 
 	        Trainings and code of conduct
