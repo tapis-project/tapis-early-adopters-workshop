@@ -1,26 +1,23 @@
 # PEARC 20 Tapis Early Adopters Workshop
 
-### Schedule (PT)
+### Schedule (Pacific Time)
 * 8:00AM  - Welcome 
 * 8:05AM  - Tapis V3 introduction and V2 changes 
 		    Introduction to Tapis and current state 
 		    Overview of V3 APIs 
 		    Changes from V2 
 * 8:35AM  - Invited Speaker Scott Christly 
-* 8:45AM  - Tapis V3 design deep dive and roadmap <br/>
-		    Tapis tenancy and authorization <br/> 
-            Security Kernel and remote site/data-center deployments <br/>
-            Streaming data 
-* 9:20AM  - Q/A  
-* 9:30AM  - Break
-* 10:00AM - Invited Speaker Jack Smith
-* 10:05AM - Container support 
-* 10:15AM - Tapis V3 demo 
-* 11:00AM - Invited Speaker Matthew P. Lucas
-* 11:10AM - Contributing to Tapis <br/> 
-		    Tools & best practices: 
-	        Trainings and code of conduct
-* 11:30AM - Wrap up & Q/A
+* 8:45AM  - Tapis tenancy and authorization <br/>
+* 9.00AM  - Distributed Security <br/>
+* 9.10AM  - Streaming data 
+* 9:20AM  - Invited Speaker Jack Smith
+* 9:30AM  - Q/A
+* 10:00AM - Break
+* 10:30AM - Container support 
+* 10:40AM - Tapis V3 demo 
+* 11:30AM - Invited Speaker Matthew P. Lucas
+* 11:40AM - Contributing to Tapis <br/> 
+* 11:50AM - Wrap up & Q/A
 
 
 ### Presenters
