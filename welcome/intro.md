@@ -13,7 +13,9 @@ Please join the TACC Cloud Slack:
 
 [TACC Cloud Slack](http://bit.ly/join-tapis)
 
-Join the channel #pearc20
+Join the channel #pearc20-tapis-early-adopters-workshop
+
+
 
 
 
