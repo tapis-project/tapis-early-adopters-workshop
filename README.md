@@ -2,9 +2,9 @@
 
 ### Schedule (Pacific Time)
 * 8:00AM  - Welcome 
-* 8:05AM  - Tapis V3 introduction and V2 changes 
-		    Introduction to Tapis and current state 
-		    Overview of V3 APIs 
+* 8:05AM  - Tapis V3 introduction and V2 changes <br/>
+		    Introduction to Tapis and current state <br/>
+		    Overview of V3 APIs <br/>
 		    Changes from V2 
 * 8:35AM  - Invited Speaker Scott Christly 
 * 8:45AM  - Tapis tenancy and authorization <br/>
