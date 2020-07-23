@@ -1,4 +1,4 @@
-Automated Rainfall Mapping in Hawai‘i 
+## Automated Rainfall Mapping in Hawai‘i 
 
 A sustainable supply of clean water is essential for all aspects of life in Hawai‘i and there are multiple threats to maintaining this resource for future generations. Climate change is decreasing rainfall and increasing sea levels throughout the islands and population growth, urban development, agricultural use continue to increase, bringing into question what is sustainable. Knowledge of mean rainfall patterns in Hawai‘i are critically important in support of the research and understanding of watershed modeling as well as for the management and protection of groundwater and surface water resources. Further, rainfall information can inform methods to control and eradicate invasive species, methods to protect and restore native ecosystems, and planning for the effects of global climate change.
 
