@@ -5,13 +5,13 @@ Welcome to PEARC20 Tapis Early Adopters Workshop
 
 Please fill out this survey, all results are gathered anonymously 
 
-http://bit.ly/tapis-survey 
+[Demographic Survey](http://bit.ly/tapis-survey) 
 
 ### Join Slack
 
 Please join the TACC Cloud Slack:
 
-http://bit.ly/join-tapis 
+[TACC Cloud Slack](http://bit.ly/join-tapis)
 
 Join the channel #pearc20
 
