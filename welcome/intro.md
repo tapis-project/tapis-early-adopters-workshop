@@ -5,7 +5,7 @@ Welcome to PEARC20 Tapis Early Adopters Workshop
 
 Please fill out this survey, all results are gathered anonymously 
 
-http://bit.ly/ 
+http://bit.ly/tapis-survey 
 
 ### Join Slack
 
