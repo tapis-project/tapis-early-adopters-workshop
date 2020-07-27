@@ -6,7 +6,7 @@
 		    Introduction to Tapis and current state <br/>
 		    Overview of V3 APIs <br/>
 		    Changes from V2 
-* 8:35AM  - Invited Speaker Scott Christly 
+* 8:35AM  - Invited Speaker Scott Christley 
 * 8:45AM  - Tapis tenancy and authorization <br/>
 * 9.00AM  - Distributed Security <br/>
 * 9.10AM  - Streaming data 
@@ -25,7 +25,7 @@
 * Rich Cardone (TACC)
 * Sean Cleveland (UH)
 * Joeseph Meiring (TACC)
-* Scott Christly (UT Southwestern Medical Center)
+* Scott Christley (UT Southwestern Medical Center)
 * Jack Smith (Marshall University)
 * Matthew P. Lucas (University of Hawai‘i at Mānoa)
 * Steve Black (TACC)
